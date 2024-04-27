@@ -1,0 +1,81 @@
+body {
+  font-family: Baloo Tamma 2, sans-serif;
+}
+
+.Começo {
+  max-width: 800px;
+  margin: 30px;
+}
+
+h1 {
+  color: black;
+  font-family: "Baloo Tamma 2", sans-serif;
+  text-align: left;
+  font-weight: bold;
+}
+p {
+  color: #002e2e;
+  font-size: 24px;
+  font-family: "Baloo Tamma 2", sans-serif;
+  text-align: left;
+}
+
+h1,
+p {
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: 1.1;
+  text-align: left;
+}
+
+h5 {
+  color: black;
+  font-family: "Baloo Tamma 2", sans-serif;
+  margin-top: 0;
+  margin-bottom: 10px;
+  line-height: 1.1;
+  text-align: 10px;
+}
+
+.language-btn,
+.continue-btn {
+  font-size: 16px;
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.language-btn:hover,
+.continue-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.continue-btn {
+  font-weight: bold;
+  margin-left: 50px;
+}
+button:first-of-type {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  line-height: 1.1;
+}
+button:last-of-type {
+  margin-bottom: 20px;
+  margin-top: 3cm;
+}
+button {
+  border-radius: 10px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.bordas {
+  border: 3px solid #f0f0f0;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px #000000(0, 0, 0, 0.5);
+}
